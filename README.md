@@ -42,5 +42,5 @@ I want to do more challenges to be more comfortable with HTML/CSS.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lairdfire](https://www.frontendmentor.io/profile/Lairdfire)
 
